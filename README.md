@@ -1,5 +1,5 @@
 # CLoakshot
-A no-nonsense metadata scrubber for JPEG and PNG images. Automatically purges identifying data and saves sanitized copies for anonymous sharing via Tor or other secure channels.
+A no-nonsense metadata scrubber for images. Automatically purges identifying data and saves sanitized copies for anonymous sharing via Tor or other secure channels.
 
 Cloakshot is a simple Bash script designed to clean and scrub metadata from image files. It's especially useful for removing sensitive metadata (e.g., EXIF data) from images before uploading them to privacy-focused networks like Tor or for anyone looking to protect their privacy.
 
