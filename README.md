@@ -42,7 +42,7 @@ Example
 
 ./tor_image_clean.sh /home/user/images/
 
-This will clean all supported images in the /home/user/images/ directory and save the cleaned versions to ~/tor_uploads.
+This will clean all supported images in the /home/user/images/ directory save the cleaned versions to ~/tor_uploads.
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
